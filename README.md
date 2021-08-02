@@ -1,4 +1,4 @@
-# DBS311-FinalProject
+# DBS311 Seneca College
 In this assignment, I created a simple Retail application using the C++ programming language and Oracle (PL/SQL).
 
 DBS311.sql covers all materials learned on Oracle SQL SELECT statements.
